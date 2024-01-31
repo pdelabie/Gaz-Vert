@@ -1,5 +1,5 @@
-# Gaz-Vert
-*Ce projet à pour objectif d'observer les différentes sources potentielles de **Gaz Vert** en France, par département. Explorons ici les sources primaires de Gaz Vert comme le méthane, le bois, l'énergie de récupération ou encore la production d'électricité par Power-to-Gas.*  
+# Répartition des potentiels de Gaz-Vert à 2050 !
+*Ce projet à pour objectif d'observer les différentes sources potentielles de **Gaz Vert** en France, par département en 2050. Explorons ici les sources primaires de Gaz Vert comme le méthane, le bois, l'énergie de récupération ou encore la production d'électricité par Power-to-Gas.*  
 <br>
 
 ### Data sources
